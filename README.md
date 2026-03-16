@@ -15,10 +15,10 @@ Ce type d'architecture est utilisé dans les environnements professionnels pour 
 L'infrastructure repose sur deux serveurs Debian hébergeant MariaDB.
 
 Serveur 1  
-IP : 172.18.155.23
+IP : 172.18.155.X
 
 Serveur 2  
-IP : 172.18.155.24
+IP : 172.18.155.X
 
 Les deux serveurs sont configurés en réplication maître ↔ maître afin que chaque serveur puisse répliquer les modifications vers l'autre.
 
