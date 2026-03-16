@@ -18,7 +18,7 @@ Serveur 1
 IP : 172.18.155.X
 
 Serveur 2  
-IP : 172.18.155.X
+IP : 172.18.155.X +1
 
 Les deux serveurs sont configurés en réplication maître ↔ maître afin que chaque serveur puisse répliquer les modifications vers l'autre.
 
